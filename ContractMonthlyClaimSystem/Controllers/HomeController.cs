@@ -18,6 +18,8 @@ namespace ContractMonthlyClaimSystem.Controllers
             return View();
         }
 
+        //new line of code
+
         public IActionResult Privacy()
         {
             return View();

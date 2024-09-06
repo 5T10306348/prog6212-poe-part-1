@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\yusuf\\source\\repos\\ContractMonthlyClaimSystem\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E8BEF2-7065-4A21-9711-E1D2785AED30}|ContractMonthlyClaimSystem\\ContractMonthlyClaimSystem.csproj|c:\\users\\yusuf\\source\\repos\\contractmonthlyclaimsystem\\contractmonthlyclaimsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E8BEF2-7065-4A21-9711-E1D2785AED30}|ContractMonthlyClaimSystem\\ContractMonthlyClaimSystem.csproj|solutionrelative:contractmonthlyclaimsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\source\\repos\\ContractMonthlyClaimSystem\\ContractMonthlyClaimSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ContractMonthlyClaimSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\yusuf\\source\\repos\\ContractMonthlyClaimSystem\\ContractMonthlyClaimSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ContractMonthlyClaimSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T20:55:11.225Z",
+              "EditorCaption": ""
             }
           ]
         }
